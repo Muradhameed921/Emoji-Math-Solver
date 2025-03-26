@@ -87,4 +87,4 @@ print(result)
 This project demonstrates how generative AI can be creatively applied to solve unconventional problems while maintaining mathematical reasoning capabilities.
 
 ## Results
-![Emoji Math](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![Emoji Math](https://github.com/Muradhameed921/Emoji-Math-Solver/blob/main/O1.jpeg)
